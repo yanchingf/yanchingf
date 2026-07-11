@@ -1,5 +1,5 @@
 
-# ![Logo](https://example.com) 
+![](images/profile.jpg)
 
 # 🛋️ About:
 physics + compe @ northwestern 
