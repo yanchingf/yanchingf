@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="pic.jpeg" width="220">
-</p>
+![](pic.jpeg)
 
 # 🛋️ About:
 physics + compe @ northwestern 
