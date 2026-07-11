@@ -1,5 +1,5 @@
 
-![](images/profile.jpg)
+![](images/profile.jpeg)
 
 # 🛋️ About:
 physics + compe @ northwestern 
