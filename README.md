@@ -1,5 +1,5 @@
 
-![](pic.jpeg)
+<!-- ![](pic.jpeg) -->
 
 # 🛋️ About:
 physics + compe @ northwestern 
