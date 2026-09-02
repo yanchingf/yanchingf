@@ -13,6 +13,8 @@ physics + compe @ northwestern
 # 📑 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yanchingf&theme=highcontrast)](https://git.io/streak-stats)
 
+![](./profile-3d-contrib/profile-season-animate.svg)
+
 ---
 [![](https://komarev.com/ghpvc/?username=yanchingf&icon=2)](https://visitcount.itsvg.in)
 
